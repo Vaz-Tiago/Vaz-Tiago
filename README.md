@@ -22,8 +22,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> 
 </p>
 <br />
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=vaz-tiago&theme=tokyonight&layout=compact)
 <br />
 
 
